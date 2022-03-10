@@ -78,19 +78,19 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Gothic_A1";
   font-style: normal;
   font-weight: 300;
-  src: url(/fonts/Gothic_A1/GothicA1-Light.ttf);
+  src: url(fonts/Gothic_A1/GothicA1-Light.ttf);
 }
 @font-face {
   font-family: "Gothic_A1";
   font-style: normal;
   font-weight: 400;
-  src: url(/fonts/Gothic_A1/GothicA1-Regular.ttf);
+  src: url(fonts/Gothic_A1/GothicA1-Regular.ttf);
 }
 @font-face {
   font-family: "Gothic_A1";
   font-style: normal;
   font-weight: 700;
-  src: url(/fonts/Gothic_A1/GothicA1-Bold.ttf);
+  src: url(fonts/Gothic_A1/GothicA1-Bold.ttf);
 }
 body {
   font-family: "Gothic_A1";
